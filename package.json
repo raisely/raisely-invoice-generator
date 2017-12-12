@@ -1,5 +1,5 @@
 {
-  "name": "pdf-invoice",
+  "name": "raisely-invoice-generator",
   "version": "1.0.2",
   "description": "A Phantom dep. free PDF invoice generator built with PDFKit",
   "main": "lib/index.js",
